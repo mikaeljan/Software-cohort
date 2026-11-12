@@ -15,13 +15,13 @@ The money sent back to the learner's card once their refund request is approved.
 _Avoid_: Reversal, Chargeback, Cancellation
 
 **Pending review**:
-The state of a refund request that has been submitted but not yet approved or declined; no money has moved.
+The state of a refund request that has been submitted but not yet approved or declined; no money has moved and the learner keeps access to the course.
 _Avoid_: Pending chargeback, Requested, Open
 
 **Refunded**:
-The state of a refund request that was approved and whose refund has been sent.
+The state of a refund request that was approved and whose refund has been sent; the learner no longer has access to the course.
 _Avoid_: Approved, Reversed, Cancelled
 
 **Refund declined**:
-The state of a refund request that was turned down; no money moves.
+The state of a refund request that was turned down; no money moves and the learner keeps access to the course.
 _Avoid_: Rejected, Denied
