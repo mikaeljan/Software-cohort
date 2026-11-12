@@ -11,7 +11,7 @@ A learner's ask to have the money they paid for one purchase returned. It is alw
 _Avoid_: Cancellation, Reversal, Chargeback
 
 **Refund**:
-The return to a learner of the money they paid for a purchase.
+The return to a learner of the full amount they paid for a purchase.
 _Avoid_: Reversal, Chargeback, Cancellation
 
 **Pending review**:
