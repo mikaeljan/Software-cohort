@@ -7,7 +7,7 @@ An online course platform where learners buy courses and work through their less
 ### Refunds
 
 **Refund request**:
-A learner's ask to have the money they paid for one purchase returned. It is always Pending review, Refunded, or Refund declined.
+A learner's ask to have the money they paid for one purchase returned. It is always Pending review, Refunded, or Refund declined. A purchase has at most one refund request.
 _Avoid_: Cancellation, Reversal, Chargeback
 
 **Refund**:
