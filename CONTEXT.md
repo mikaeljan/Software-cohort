@@ -25,3 +25,7 @@ _Avoid_: Approved, Reversed, Cancelled
 **Refund declined**:
 A refund request that was turned down.
 _Avoid_: Rejected, Denied
+
+**Refund window**:
+The period after a purchase during which the learner may make a refund request.
+_Avoid_: Cancel window, cancellation period
